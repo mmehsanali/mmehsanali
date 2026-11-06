@@ -95,8 +95,12 @@ What sets my work apart is that I also build the sites the traffic lands on. I s
 
 ## 📈 GitHub Stats
 
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmehsanali&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmehsanali&layout=compact&hide_border=true&theme=github_dark)
+![GitHub followers](https://img.shields.io/github/followers/mmehsanali?style=flat&logo=github&label=Followers)
+![Public repos](https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmmehsanali)
+![Profile views](https://komarev.com/ghpvc/?username=mmehsanali&style=flat&color=blue&label=Profile+views)
+![Stars](https://img.shields.io/github/stars/mmehsanali?style=flat&logo=github&label=Stars&affiliations=OWNER)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mmehsanali&theme=github-dark-blue&hide_border=true)](https://github.com/mmehsanali)
 
 ---
 
