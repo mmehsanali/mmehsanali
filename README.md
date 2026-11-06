@@ -76,7 +76,7 @@ What sets my work apart is that I also build the sites the traffic lands on. I s
 | Project | Stack | Role |
 |---|---|---|
 | [Union Limousine](https://www.unionlimousine.com/) | Next.js 16, React 19, TypeScript, Redux Toolkit, RTK Query, next-intl (7 locales), Google Ads | Product owner & growth lead — programmatic SEO architecture (airport, state and county landing pages at scale), Google Ads management, conversion tracking |
-| [EduMatrix](#) | React, Firebase, multi-tenant SaaS | Founder & developer — school ERP for institutions in Lahore |
+| EduMatrix | React, TypeScript, Vite, Firebase (Firestore, Hosting), PWA + Capacitor Android | Founder & developer — multi-tenant school ERP with role-based portals (admin, principal, accountant, teacher, student/parent), sold to private schools in Lahore |
 | [Movers E Dubai](https://moversedubai.com/) | WordPress, GTM, GA4, Google Ads | Google Ads management and full conversion-tracking setup |
 | [Perfect Movers Dubai](https://perfectmoversdubai.com/) | WordPress, Local SEO, Meta Ads | Owner — packers & movers brand, SEO and social content |
 | [Softlogix Technologies](https://softlogixtechnologies.com/) | Next.js, Tailwind CSS | Founder & CEO — software development and digital marketing company |
@@ -107,7 +107,6 @@ What sets my work apart is that I also build the sites the traffic lands on. I s
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsan-ali/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://softlogixtechnologies.com/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/MMEhsanAli)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mmehsanali)
